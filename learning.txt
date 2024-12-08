@@ -1,0 +1,14 @@
+Println();
+
+func() {}
+
+%T is used to print the type of the variable
+
+:= walrus operator is used to declare and assign a variable in one go (Only allowed inside a function)
+
+
+//Doc 
+pkg.go.org
+
+& is used to get the address of the variable
+* is used to get the value of the variable at the address
